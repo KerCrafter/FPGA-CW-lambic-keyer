@@ -1,0 +1,13 @@
+*.bak
+*.swp
+transcript
+work/
+vsim.wlf
+*.qpf
+*.qsf
+*.rpt
+db/
+output_files/
+simulation/
+incremental_db/
+
