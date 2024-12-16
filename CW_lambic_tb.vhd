@@ -6,11 +6,11 @@ end entity;
 
 
 architecture simulation of CW_Lambic_tb is
-	signal test : std_logic;
+  signal test : std_logic;
 begin
-	UUT: entity work.CW_Lambic
-		port map(
-			test => test
-		);
+  UUT: entity work.CW_Lambic
+    port map(
+      test => test
+    );
 end architecture;
 

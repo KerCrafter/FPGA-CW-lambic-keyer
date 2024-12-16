@@ -1,5 +1,6 @@
 *.bak
 *.swp
+*.qws
 transcript
 work/
 vsim.wlf
